@@ -1,5 +1,10 @@
 
 
+> **License / 许可:** Original code authored by bennix: **GPL-3.0-only**.
+> Upstream and third-party material retain their original terms and notices.
+> See [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md) for the current licensing scope.
+
+
 # 日语五十音图学习工具 / Japanese Gojuon Learning Tool
 
 [中文](#chinese) | [English](#english)
@@ -85,9 +90,9 @@ python test.py
 
 ## License
 
-本项目采用 MIT 许可证 -
+本项目中 bennix 原创代码采用 GPL-3.0-only -
 
-This project is licensed under the MIT License - 
+Original code authored by bennix is licensed under GPL-3.0-only - 
 
 ```
 
